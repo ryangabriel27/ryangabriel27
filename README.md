@@ -1,6 +1,5 @@
 ### Olá! 😃
-#### Me chamo Ryan Gabriel e, no momento, sou estudante técnico na área de Desenvolvimento de Sistemas pelo SENAI Luiz Varga, Limeira - SP;
-##### Busco evoluir cada vez mais na área de Desenvolvimento. Atualmente, tenho conhecimentos em desenvolvimento Fullstack e Mobile com diversos frameworks e aqui nesse perfil estão todos os meus projetos;
+ Me chamo Ryan Gabriel e, no momento, sou estudante técnico na área de Desenvolvimento de Sistemas pelo SENAI Luiz Varga, Limeira - SP. Busco evoluir cada vez mais na área de Desenvolvimento. Atualmente, tenho conhecimentos em desenvolvimento Fullstack e Mobile com diversos frameworks e aqui nesse perfil estão todos os meus projetos.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryangabrieldj/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-gabriel-de-julio-7262a6278/)
